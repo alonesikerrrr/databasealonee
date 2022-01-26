@@ -1,15 +1,15 @@
 {
   "Prefix":".",
-  "Owner":"902943204540841984",
-  "MongoUrl":"mongodb+srv://databasee1221:databasee1221@databasebots.rheya.mongodb.net/databasebotasst2?retryWrites=true&w=majority",
-  "backupkanal":"928427064799920128",
-  "guildID":"908743668045852712",
+  "Owner":"",
+  "MongoUrl":"",
+  "backupkanal":"",
+  "guildID":"",
   "BotSesKanal":"908743670491123726",
   "BotDurum":"Developed By Alone",
   "BotFooter":"Developed By Alone",
   "BotStatus":"dnd",
 
-  "green":"<a:Onay:908973524994109451>", 
-  "greenid":"908973524994109451"
+  "green":"", 
+  "greenid":""
 
   }
